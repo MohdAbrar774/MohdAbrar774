@@ -12,7 +12,7 @@ I'm currently working on creating a MERN stack application of a personal project
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/abrar_007/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="" height="200" width="200" /></a>
+  <a href="https://leetcode.com/abrar_007/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="" height="200" width="200" /></a>
 </p>
 
 <br/>
