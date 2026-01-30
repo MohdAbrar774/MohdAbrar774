@@ -1,7 +1,7 @@
 <h1>Hii 👋 I'm Mohd Abrar</h1>
 
 # 💫 About Me:
-I'm currently working on creating a MERN stack application of a personal project.<br>I'm looking to collaborate on projects that involve building scalable and efficient backend system.<br>I'm currently learning about containerization with Docker and deployment strategies.<br>I'm also committed to solving at least one DSA problem on Leetcode every day to improve my problem-solving abilities.<br>I'm a passionate home cook and love experimenting with new recipes.
+I'm currently Enrolled in a Web Dev Cohort for next 6 month grinding with community and consistency <br>I'm looking to collaborate on projects that involve building scalable and efficient backend system.<br>I'm currently working on creating a MERN  application  a personal project. <br>I'm also committed to solving at least one DSA problem on Leetcode every day to improve my problem-solving abilities.<br>I'm a passionate home cook and love experimenting with new recipes.
 
 
 ## 🌐 Socials:
